@@ -1,0 +1,44 @@
+/*Estilos da pag index*/
+.center {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#menu li {
+    display: inline;
+    padding: 15px;
+}
+    
+#menu li a {
+    text-decoration: none;
+    color:darkslategrey;
+
+}
+    
+#menu li a:hover{
+    color:dimgray;
+
+}
+    .p-30{
+        padding: 30px;
+    }
+
+    .justify{
+        text-align: justify;
+    }
+/*Estilos da pag dinheiro*/
+
+
+
+/*Estilos da pag conhecimento*/
+
+
+
+/*Estilos da pag contato*/
